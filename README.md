@@ -37,4 +37,8 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
