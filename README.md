@@ -1,6 +1,6 @@
 # DSA Practice
 
-My personal collection of Data Structures and Algorithms problems solved in C++.
+My personal collection of Data Structures and Algorithms problems solved in java.
 
 ## Topics
 - Arrays
