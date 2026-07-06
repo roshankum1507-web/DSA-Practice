@@ -30,6 +30,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0001-two-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -52,4 +53,8 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
