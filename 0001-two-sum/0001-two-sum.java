@@ -1,20 +1,21 @@
-class Solution{
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+         int i;
+         int j;
+        for ( i = 0 ; i <nums.length ; i++){
 
-    public int[] twoSum(int[]arr , int target){
+            for(j = i + 1 ; j <nums.length ; j++){
 
-        int n = arr.length;
-
-        for(int i = 0 ; i < n ; i++){
-
-            for(int j = i+1 ; j < n ; j++){
-
-                if(arr[i] + arr[j] == target){
+                if(nums[i] + nums[j] == target){
 
                     return new int[]{i , j};
                 }
             }
         }
 
-        return new int[]{-1 , -1};
+        return new int[]{};
+
+       
+        
     }
 }
