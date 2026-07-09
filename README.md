@@ -33,6 +33,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0053-maximum-subarray](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0485-max-consecutive-ones) |
@@ -45,6 +46,7 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -70,6 +72,7 @@ Prepare for software engineering interviews and competitive programming.
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
