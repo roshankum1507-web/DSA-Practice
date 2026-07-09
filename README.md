@@ -49,6 +49,7 @@ Prepare for software engineering interviews and competitive programming.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 ## Binary Search
