@@ -32,6 +32,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -81,6 +83,7 @@ Prepare for software engineering interviews and competitive programming.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
