@@ -35,6 +35,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0075-sort-colors](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -75,6 +77,7 @@ Prepare for software engineering interviews and competitive programming.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +87,7 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -92,4 +96,8 @@ Prepare for software engineering interviews and competitive programming.
 | ------- |
 | [0053-maximum-subarray](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
