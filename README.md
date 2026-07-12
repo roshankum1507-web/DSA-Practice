@@ -39,6 +39,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -102,4 +103,8 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
