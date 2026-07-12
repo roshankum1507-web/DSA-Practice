@@ -44,6 +44,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0283-move-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,4 +108,5 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
