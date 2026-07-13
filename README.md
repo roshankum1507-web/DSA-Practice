@@ -31,6 +31,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0004-median-of-two-sorted-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0075-sort-colors) |
@@ -75,6 +76,7 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
