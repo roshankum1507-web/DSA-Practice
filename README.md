@@ -47,6 +47,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
@@ -106,6 +107,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
