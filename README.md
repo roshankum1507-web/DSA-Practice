@@ -53,6 +53,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0724-find-pivot-index](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0189-rotate-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,4 +138,8 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
