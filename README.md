@@ -54,6 +54,7 @@ Prepare for software engineering interviews and competitive programming.
 | [1991-find-the-middle-index-in-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0283-move-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,4 +144,5 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
