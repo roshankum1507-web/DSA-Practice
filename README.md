@@ -31,6 +31,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0004-median-of-two-sorted-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0053-maximum-subarray) |
@@ -60,6 +61,7 @@ Prepare for software engineering interviews and competitive programming.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0189-rotate-array) |
