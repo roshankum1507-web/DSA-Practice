@@ -8,19 +8,7 @@ class Solution {
             square[i] = nums[i] * nums[i];
         }
 
-        for (int i = 1 ; i < square.length ; i++) {
-
-            int j = i;
-
-            while (j > 0 && square[j - 1] > square[j]) {
-
-                int temp = square[j - 1];
-                square[j - 1] = square[j];
-                square[j] = temp;
-                j--;
-            }
-
-        }
+        java.util.Arrays.sort(square);
 
         return square;
 
