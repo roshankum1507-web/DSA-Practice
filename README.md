@@ -34,6 +34,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0031-next-permutation](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -79,6 +80,7 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
