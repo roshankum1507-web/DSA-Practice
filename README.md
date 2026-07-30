@@ -57,6 +57,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0414-third-maximum-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1572-matrix-diagonal-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
@@ -160,6 +161,7 @@ Prepare for software engineering interviews and competitive programming.
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Union-Find
@@ -171,5 +173,6 @@ Prepare for software engineering interviews and competitive programming.
 | ------- |
 | [0048-rotate-image](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
