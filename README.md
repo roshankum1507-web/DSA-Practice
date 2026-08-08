@@ -38,6 +38,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0041-first-missing-positive](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0075-sort-colors) |
@@ -165,6 +166,7 @@ Prepare for software engineering interviews and competitive programming.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -177,6 +179,7 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0766-toeplitz-matrix) |
