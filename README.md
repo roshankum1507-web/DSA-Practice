@@ -64,6 +64,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0867-transpose-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1572-matrix-diagonal-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -94,6 +95,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0066-plus-one](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +129,7 @@ Prepare for software engineering interviews and competitive programming.
 | ------- |
 | [0136-single-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +158,7 @@ Prepare for software engineering interviews and competitive programming.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1991-find-the-middle-index-in-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
 ## Heap (Priority Queue)
 |  |
