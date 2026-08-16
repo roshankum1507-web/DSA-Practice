@@ -54,6 +54,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0189-rotate-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0128-longest-consecutive-sequence](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -142,6 +144,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0414-third-maximum-number) |
@@ -159,6 +162,7 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0229-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -197,4 +201,8 @@ Prepare for software engineering interviews and competitive programming.
 | [0766-toeplitz-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
