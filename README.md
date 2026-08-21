@@ -72,6 +72,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0867-transpose-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1572-matrix-diagonal-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
@@ -180,6 +181,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0238-product-of-array-except-self](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1991-find-the-middle-index-in-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
 ## Heap (Priority Queue)
@@ -236,4 +238,8 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
