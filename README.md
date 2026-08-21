@@ -63,6 +63,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0724-find-pivot-index) |
@@ -126,6 +127,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0162-find-peak-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -134,6 +136,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0053-maximum-subarray](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -211,4 +214,24 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
