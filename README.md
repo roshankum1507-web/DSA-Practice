@@ -51,6 +51,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0128-longest-consecutive-sequence](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0189-rotate-array) |
@@ -124,6 +125,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0033-search-in-rotated-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
