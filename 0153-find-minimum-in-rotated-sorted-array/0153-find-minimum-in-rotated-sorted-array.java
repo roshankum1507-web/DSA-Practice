@@ -2,7 +2,7 @@ class Solution {
     public int findMin(int[] nums) {
 
         int n = nums.length;
-        int k = -5001;
+        int k = Integer.MIN_VALUE;
 
         for(int i = 1 ; i < n ; i++){
 
@@ -13,7 +13,7 @@ class Solution {
             }
         }
 
-        if(k==-5001) return nums[0];
+        if(k==Integer.MIN_VALUE) return nums[0];
 
         return k;
         
