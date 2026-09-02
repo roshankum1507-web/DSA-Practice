@@ -2,34 +2,27 @@ class Solution {
     public int[] twoSum(int[] numbers, int target) {
 
         int n = numbers.length;
+        int low = 0;
+        int high = n-1;
 
-        for(int i = 0 ; i <= n-1; i++){
+        while(low<high){
 
-            int low = i+1;
-            int high = n-1;
-            int j = target - numbers[i];
+            if(numbers[low] + numbers[high] == target){
 
-            while(low<=high){
+                return new int[] {low+1 , high+1};
+            }
 
-                int mid = (low+high)/2;
+            else if(numbers[low] + numbers[high] > target){
+                high--;
+            }
 
-                if(numbers[mid] == j){
+            else{
 
-                    return new int[] {i+1 , mid+1};
-                }
-
-                else if(numbers[mid] > j){
-
-                    high = mid-1;
-                }
-
-                else{
-
-                    low = mid + 1;
-                }
+                low++;
             }
         }
 
+       
         return new int[] {};
 
     }
