@@ -75,6 +75,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0724-find-pivot-index](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -144,6 +145,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0493-reverse-pairs](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
