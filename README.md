@@ -83,6 +83,7 @@ Prepare for software engineering interviews and competitive programming.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -153,6 +154,7 @@ Prepare for software engineering interviews and competitive programming.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
