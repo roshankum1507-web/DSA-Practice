@@ -65,6 +65,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0493-reverse-pairs) |
@@ -147,6 +148,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0704-binary-search) |
@@ -194,6 +196,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0119-pascals-triangle-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 ## Counting
 |  |
 | ------- |
@@ -203,6 +206,7 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -271,4 +275,8 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
