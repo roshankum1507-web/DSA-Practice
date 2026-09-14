@@ -90,6 +90,7 @@ Prepare for software engineering interviews and competitive programming.
 | [2089-find-target-indices-after-sorting-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2643-row-with-maximum-ones](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
 | [3903-smallest-stable-index-i](https://github.com/roshankum1507-web/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -243,6 +244,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0766-toeplitz-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
+| [2643-row-with-maximum-ones](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
