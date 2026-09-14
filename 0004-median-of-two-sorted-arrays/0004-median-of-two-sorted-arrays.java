@@ -4,59 +4,71 @@ class Solution {
         int m = nums1.length;
         int n = nums2.length;
 
-        int[] mergearray = new int[m + n];
+        if(m>n){
+            return findMedianSortedArrays(nums2 , nums1);
+        }
 
-        int i = 0;
+        int low = 0 ; 
+        int high = m;
+        int left = (m+n+1)/2;
+        int total = m+n;
 
-        int j = 0;
+        while(low<=high){
 
-        int k = 0;
+            int mid1 = (low+high)/2;
 
-        while (i < m && j < n) {
+            int mid2 = left - mid1 ;
 
-            if (nums1[i] <= nums2[j]) {
+            int l1 = Integer.MIN_VALUE;
+            int l2 = Integer.MIN_VALUE;
+            int r1 = Integer.MAX_VALUE;
+            int r2 = Integer.MAX_VALUE;
 
-                mergearray[k] = nums1[i];
-                i++;
-                k++;
+            if(mid1<m) {
+
+                r1 = nums1[mid1];
+
+            }
+            if(mid2<n){
+
+                r2 = nums2[mid2];
+
+            }
+            if(mid1 -1 >=0){
+
+                l1 = nums1[mid1-1];
             }
 
-            else {
+            if(mid2 - 1 >= 0){
 
-                mergearray[k] = nums2[j];
-                j++;
-                k++;
+                l2 = nums2[mid2-1];
             }
+
+            if(l1 <= r2 && l2 <= r1){
+
+                if(total%2 == 1){
+
+                    return Math.max(l1 , l2);
+                }
+
+                return (double) (Math.max(l1,l2) + Math.min(r1 , r2))/2.0;
+            }
+
+            else if(l1>r2){
+
+                high = mid1-1;
+            }
+
+            else{
+
+                low = mid1 +1;
+            }
+
+
         }
 
-        while (i < m) {
 
-            mergearray[k] = nums1[i];
-            i++;
-            k++;
-        }
-
-        while (j < n) {
-
-            mergearray[k] = nums2[j];
-            j++;
-            k++;
-        }
-
-        int total = m + n;
-
-        if (total % 2 == 0) {
-
-            double median1 = (mergearray[(total - 2) / 2] + mergearray[total / 2]) / 2.0;
-
-            return median1;
-        }
-
-        else if (total % 2 != 0) {
-
-            double median2 = mergearray[total / 2];
-            return median2;
-        }
+        
 
         return -1;
 
