@@ -88,6 +88,7 @@ Prepare for software engineering interviews and competitive programming.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
+| [1901-find-a-peak-element-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -162,6 +163,7 @@ Prepare for software engineering interviews and competitive programming.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -251,6 +253,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0766-toeplitz-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
+| [1901-find-a-peak-element-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
