@@ -59,6 +59,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -204,6 +205,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0119-pascals-triangle-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 ## Counting
 |  |
