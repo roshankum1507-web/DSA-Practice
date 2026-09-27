@@ -130,6 +130,7 @@ Prepare for software engineering interviews and competitive programming.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0048-rotate-image) |
@@ -293,4 +294,12 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
