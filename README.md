@@ -113,6 +113,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
@@ -302,6 +303,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0002-add-two-numbers](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
