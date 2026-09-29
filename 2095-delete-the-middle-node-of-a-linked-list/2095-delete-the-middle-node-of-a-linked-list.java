@@ -14,46 +14,23 @@ class Solution {
         if(head == null) return null;
         if(head.next == null) return null;
 
-        ListNode temp = head;
-        int length = 0;
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prev = null;
 
-        while(temp != null){
+        while(fast != null && fast.next != null){
 
-            length++;
-            temp = temp.next;
-
-        }
-
-        int k = (length + 2)/2;
-        temp = head;
-        int counter = 0;
-        int prevcounter = 0;
-        ListNode prev = head;
-
-        while(temp!=null){
-
-            counter++;
-            prevcounter++;
-
-            if(prevcounter == (k-1)){
-                temp = temp.next;
-                continue;
-            }
-
-            if(counter == k){
-
-                break;
-            }
-
-            prev = prev.next;
-            temp = temp.next;
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
 
         }
 
-        prev.next = temp.next;
-        temp.next = null;
+        prev.next = slow.next;
+        
 
         return head;
+
         
     }
 }
