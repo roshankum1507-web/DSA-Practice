@@ -14,32 +14,15 @@ class Solution {
         if(head == null) return null;
         if(head.next == null) return head;
 
-        ListNode temp = head;
-        int length = 0;
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while(temp!=null){
-            length++;
-            temp = temp.next;
+        while(fast!=null && fast.next!=null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        temp = head;
-
-        int k = (length + 2)/2;
-        int counter = 0;
-
-        while(temp != null){
-
-            counter++;
-
-            if(counter == k) break;
-
-            temp = temp.next;
-
-        }
-
-        head = temp;
-
-        return head;
+        return slow;
 
 
         
