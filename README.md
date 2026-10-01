@@ -109,6 +109,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0088-merge-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -303,6 +304,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0002-add-two-numbers](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -311,4 +313,9 @@ Prepare for software engineering interviews and competitive programming.
 | ------- |
 | [0002-add-two-numbers](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
