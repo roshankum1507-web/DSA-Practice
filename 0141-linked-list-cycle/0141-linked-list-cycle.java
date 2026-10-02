@@ -12,24 +12,21 @@
 public class Solution {
     public boolean hasCycle(ListNode head) {
 
-        ListNode temp = head;
+        ListNode slow = head;
+        ListNode fast = head;
 
-        Set<ListNode>mpp = new HashSet<>();
+        while (fast != null && fast.next != null) {
 
-        while(temp!=null){
-
-            if(mpp.contains(temp)){
+            slow = slow.next;
+            fast = fast.next.next;
+            if (slow == fast) {
 
                 return true;
             }
-            mpp.add(temp);
-            temp = temp.next;
+
         }
 
         return false;
 
-       
-
-        
     }
 }
