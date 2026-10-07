@@ -108,6 +108,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0061-rotate-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0148-sort-list) |
@@ -345,4 +346,5 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
