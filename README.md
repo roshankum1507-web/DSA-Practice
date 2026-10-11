@@ -96,6 +96,7 @@ Prepare for software engineering interviews and competitive programming.
 | [2149-rearrange-array-elements-by-sign](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2643-row-with-maximum-ones](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3903-smallest-stable-index-i](https://github.com/roshankum1507-web/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -356,4 +357,8 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/roshankum1507-web/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
