@@ -38,6 +38,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0033-search-in-rotated-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0053-maximum-subarray) |
@@ -368,4 +369,8 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
