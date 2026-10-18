@@ -47,6 +47,7 @@ Prepare for software engineering interviews and competitive programming.
 | [0073-set-matrix-zeroes](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0118-pascals-triangle) |
@@ -198,6 +199,7 @@ Prepare for software engineering interviews and competitive programming.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0268-missing-number) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/roshankum1507-web/DSA-Practice/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -373,4 +375,5 @@ Prepare for software engineering interviews and competitive programming.
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/roshankum1507-web/DSA-Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
